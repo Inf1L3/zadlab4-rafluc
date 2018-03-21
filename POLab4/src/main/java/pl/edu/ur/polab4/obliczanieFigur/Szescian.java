@@ -9,6 +9,7 @@ package pl.edu.ur.polab4.obliczanieFigur;
  *
  * @author student
  */
+
 public class Szescian {
     
 }
