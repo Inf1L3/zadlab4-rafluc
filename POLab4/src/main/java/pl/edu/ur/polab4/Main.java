@@ -49,7 +49,8 @@ public class Main {
         Student nowy = new Student(imie, nazwisko, Indeks, specjalność, rok);
         nowy.pokazStudent();
         
-
+ 
+ 
 
     }
     
